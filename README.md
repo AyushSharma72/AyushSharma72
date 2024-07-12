@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsharma72" alt="ayushsharma72" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://ayush-portfolio.s3-website.ap-south-1.amazonaws.com/](http://ayush-portfolio.s3-website.ap-south-1.amazonaws.com/)
+- 👨‍💻 All of my projects are available at [https://ayush-portfolio-pearl.vercel.app/](https://ayush-portfolio-pearl.vercel.app/)
 
 - 💬 Ask me about **javascript reactjs nodejs mongodb**
 
