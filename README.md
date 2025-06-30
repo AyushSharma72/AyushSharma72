@@ -24,10 +24,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://leetcode.com/u/Need_Some_Logic/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/asharmg52l" target="_blank">
-    <img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="30" alt="GFG" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
   </a>
 </p>
 
