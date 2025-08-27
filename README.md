@@ -15,7 +15,7 @@
 <p align="center">
   🚀 Visit My Portfolio: <a href="https://ayush-portfolio-pearl.vercel.app/" target="_blank">ayush-portfolio-pearl.vercel.app</a><br />
   💬 Ask Me About: <strong>JavaScript, React.js, Node.js, MongoDB</strong><br />
-  📫 Reach Me At: <strong>asharma7588@gmail.com</strong>
+  📫 Reach Me At: <strong>ayushsharma7103@gmail.com</strong>
 </p>
 
 <h3 align="center">🌐 Connect with Me</h3>
