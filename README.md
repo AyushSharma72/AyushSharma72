@@ -1,6 +1,6 @@
 <!-- Enhanced GitHub README Profile for Ayush Sharma -->
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center">MERN Stack Developer | JavaScript Enthusiast | Open Source Contributor</h3>
+<h3 align="center">MERN Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushsharma72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
