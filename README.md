@@ -18,7 +18,6 @@
 💡 Passionate about crafting efficient, scalable, and modern web applications.  
 💬 I love contributing to open source and exploring AI.  
 🎯 Currently learning 🤷‍♂️
-
 📫 Reach me at **ayushsharma7103@gmail.com**  
 🌐 Portfolio: [ayush-portfolio-pearl.vercel.app](https://ayush-portfolio-pearl.vercel.app)
 
