@@ -16,14 +16,18 @@
 
 ### 🧠 About Me  
 💡 Passionate about crafting efficient, scalable, and modern web applications.  
-💬 I love contributing to open source, solving DSA problems, and exploring AI.  
-🎯 Currently learning **Next.js**, **TypeScript**, and **MLOps fundamentals**.  
+💬 I love contributing to open source and exploring AI.  
+🎯 Currently learning 🤷‍♂️
 📫 Reach me at **ayushsharma7103@gmail.com**  
 🌐 Portfolio: [ayush-portfolio-pearl.vercel.app](https://ayush-portfolio-pearl.vercel.app)
 
 ---
 
 ### 🌐 Connect with Me
+<p align="center">
+  <em>"Let's connect, collaborate, and create something awesome together 🚀"</em>
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/ayush-sharma-a155a8267" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
@@ -36,6 +40,9 @@
   </a>
   <a href="mailto:ayushsharma7103@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://ayush-portfolio-pearl.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="35" alt="Portfolio"/>
   </a>
 </p>
 
@@ -76,6 +83,10 @@
 ### 🧩 Fun Fact & Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  💬 <em>Ab Aye ho to follow karlo ! </em>
 </p>
 
 ---
