@@ -80,9 +80,9 @@
 
 ---
 
-### Fact
+### 💯 Fact
 <p align="center">
-  💼 <em>If you're a recruiter, you won't regret hiring me ! 🗿 </em>
+  💼 <em>If you're a recruiter, you won't regret hiring me 🦾 </em>
 </p>
 
 <p align="center">
