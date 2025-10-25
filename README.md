@@ -80,13 +80,8 @@
 
 ---
 
-### 🧩 Fun Fact & Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  💬 <em>Ab Aye ho to follow karlo ! </em>
+  💬 <em> Ab Aye ho to follow karlo ! </em>
 </p>
 
 ---
