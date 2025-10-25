@@ -80,6 +80,11 @@
 
 ---
 
+### Fact
+<p align="center">
+  💼 <em>If you're a recruiter, you won't regret hiring me ! 🗿 </em>
+</p>
+
 <p align="center">
   💬 <em> Ab Aye ho to follow karlo ! </em>
 </p>
