@@ -78,13 +78,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80" />
 </p>
 
----
-
-### 💯 Fact
-<p align="center">
-  💼 <em>If you're a recruiter, you won't regret hiring me 🦾 </em>
-</p>
-
 <!-- <p align="center">
   💬 <em> Ab Aye ho to follow karlo ! </em>
 </p> -->
