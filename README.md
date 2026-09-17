@@ -14,7 +14,7 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%2F%20Fintech%20Roles-2ea44f?style=for-the-badge)](https://linkedin.com/in/ayush-sharma-a155a8267)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsharma72&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Systems+%26+automation+pipelines;+%2BGenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Systems+%26+automation+pipelines;%2BGenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C" alt="Typing SVG" />
 
 </div>
 
