@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsharma7103@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsharma72&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+REST+APIs+%26+n8n+automation+pipelines;Moving+from+full-stack+into+backend+%2B+GenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C+128%2B+merged+PRs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Systems+%26+automation+pipelines;+%2B+GenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C" alt="Typing SVG" />
 
 </div>
 
