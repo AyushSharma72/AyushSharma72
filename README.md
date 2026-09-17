@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsharma7103@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsharma72&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Systems+%26+automation+pipelines;+%2B+GenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Systems+%26+automation+pipelines;+%2BGenAI+engineering;Learning+Python+%2F+FastAPI+for+LLM+systems;Open+source+contributor+%7C" alt="Typing SVG" />
 
 </div>
 
@@ -106,7 +106,7 @@
 | 🌟 GirlScript Summer of Code | 128 merged PRs · 4225 points |
 | 📦 NPM Package | [`text-gradients`](https://www.npmjs.com/package/text-gradients) — 1,000+ downloads |
 | 🧩 FreeCodeCamp | 4 merged PRs |
-| 🧮 DSA | 300+ problems solved |
+| 🧮 DSA | 400+ problems solved |
 
 </div>
 
@@ -116,18 +116,8 @@
 
 **GSSoC 2024 Badges**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="75" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="70" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="75" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="70" />
-</p>
+<img width="1200" height="630" alt="banner" src="https://github.com/user-attachments/assets/bfd876c7-c18b-4470-b766-56f5982a4aa7" />
+
 
 <br>
 
