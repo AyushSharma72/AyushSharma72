@@ -24,15 +24,14 @@
 
 ---
 
-## 🧭 The Story So Far
-
-I'm Ayush — a Full Stack Developer from India 🇮🇳, currently based in Indore. I finished my Master of Computer Applications (MCA) not long ago, but honestly, most of what I actually know came from shipping things that broke in production and figuring out why.
-
-I like taking an idea — a business that still runs its scheduling on WhatsApp chats, a lucky draw done by hand in Excel, a content calendar nobody has time for — and turning it into something that runs itself. That usually means a **React or Next.js** frontend talking to a **Node.js** backend, backed by **MongoDB**, wrapped in **Docker**, and shipped on **AWS**. What I enjoy most isn't any one layer of that stack — it's the moment a scrappy prototype starts handling real users and real edge cases.
-
-Lately, that curiosity has pulled me toward **Generative AI**. I'm deep in a self-set roadmap — **RAG → FastAPI service → containerized deployment** — leveling up my Python so I can go from "full-stack generalist" to someone who actually builds the LLM-powered, AI-automated systems everyone's talking about, instead of just wiring up someone else's API.
-
-🎯 Currently open to full-stack and backend engineering roles.
+🧭 About Me
+👋 I'm Ayush Sharma, a Full Stack Developer from India 🇮🇳
+💼 Currently working as a Full Stack Developer at StepUp Analytics
+🎓 Completed my Master of Computer Applications (MCA)
+🏗️ Build full-stack applications using React, Next.js, Node.js, MongoDB, Docker, and AWS
+🧩 Enjoy solving real-world problems by building scalable web applications
+🤖 Currently learning Generative AI with Python — exploring LLMs, AI automation, and intelligent applications
+🎯 Open to full-stack and backend engineering roles
 
 <br>
 
