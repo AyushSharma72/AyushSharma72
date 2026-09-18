@@ -244,7 +244,7 @@ Skill Trade is an innovative platform designed to connect two primary user group
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma72&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
-<p align="center"><sub>👀 Cards not loading? GitHub never goes down... so why are my stats invisible? Refresh — they'll be back.</sub></p>
+<p align="center"><sub>👀 Cards not loading? GitHub never goes down... so why are my stats invisible? Refresh — maybe they'll be back .</sub></p>
 
 <br>
 
