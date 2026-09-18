@@ -222,8 +222,7 @@ Replaced a manual Excel-based lucky draw process with a scalable web app handlin
 
 Skill Trade is an innovative platform designed to connect two primary user groups: Consumers and Service Providers. The platform facilitates seamless interaction, enabling users to request services and service providers to fulfill them efficiently. It is a service booking platform where users can book various services such as electricians, carpenters, plumbers, and more.
 
-<a href="https://skill-trade-next-15.vercel.app/" target="_blank" rel="noopener noreferrer"><b><img width="1584" height="396" alt="Ayush Sharma" src="https://github.com/user-attachments/assets/56eedeb7-cc5d-4d03-bb1f-efaa5828bc7d" />
- It's Live →</b></a>
+<a href="https://skill-trade-next-15.vercel.app/" target="_blank" rel="noopener noreferrer"> <b>It's Live →</b></a>
 
 </td>
 </tr>
