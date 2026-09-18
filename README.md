@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=230&section=header&text=Ayush%20Sharma&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%20%26%20Automation%20Systems%20%C2%B7%20GenAI%2FLLM%20in%20progress&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="Ayush Sharma banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=230&section=header&text=Ayush%20Sharma&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Automation%20Systems%20%C2%B7%20GenAI%2FLLM%20in%20progress&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="Ayush Sharma banner" />
 
 <br>
 
@@ -12,11 +12,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sharma-software-engineer)
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushsharma7104)
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsharma7103@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%2F%20Fintech%20Roles-2ea44f?style=for-the-badge)](https://linkedin.com/in/ayush-sharma-software-engineer)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20Engineering%20Roles-2ea44f?style=for-the-badge)](https://linkedin.com/in/ayush-sharma-software-engineer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsharma72&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Shipping+production+backends+%2B+AI+receptionists;Automating+content+with+n8n+%2B+LLMs;Now+learning+Python+%2F+FastAPI+for+GenAI+systems;Open+source+contributor+%7C+128+PRs+merged" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Shipping+production+backends+%2B+AI+receptionists;Automating+content+with+n8n+%2B+LLMs;Now+going+deeper+into+Python+%2F+GenAI+%2F+RAG" alt="Typing SVG" />
 
 </div>
 
@@ -24,19 +24,15 @@
 
 ---
 
-## 🧭 About Me
+## 🧭 The Story So Far
 
-I'm a Backend / Full-Stack Engineer who ships systems real businesses depend on — not just side projects. In the last year I've:
+I'm Ayush — a Full Stack Developer from India 🇮🇳, currently based in Indore. I finished my Master of Computer Applications (MCA) not long ago, but honestly, most of what I actually know came from shipping things that broke in production and figuring out why.
 
-- 🤖 Built the AI-driven backend behind **[Schedulio](https://schedulio.ai)**, a 24/7 AI receptionist across **chat, voice, and WhatsApp** — running at an estimated **10x lower cost** than a human receptionist
-- 🏢 Designed a **multi-tenant, PostgreSQL-backed auth system** so every client business onboards with fully isolated data
-- ⚙️ Built an **n8n automation pipeline** that writes and publishes **6 social posts/week across 3 platforms**, cutting content creation from 2–3 hours down to under a minute
-- 💳 Integrated **Mollie** for self-serve subscription billing and shipped a shared **AWS SES** email service reused across 5 client platforms
-- 🚀 Cut **CI/CD deploy time ~70%** and **page load time ~30%** on production platforms
+I like taking an idea — a business that still runs its scheduling on WhatsApp chats, a lucky draw done by hand in Excel, a content calendar nobody has time for — and turning it into something that runs itself. That usually means a **React or Next.js** frontend talking to a **Node.js** backend, backed by **MongoDB**, wrapped in **Docker**, and shipped on **AWS**. What I enjoy most isn't any one layer of that stack — it's the moment a scrappy prototype starts handling real users and real edge cases.
 
-Right now, I'm going deeper — leveling up **Python & FastAPI** to move from full-stack generalist toward **backend + GenAI/LLM engineering**, following a self-set roadmap: **RAG → FastAPI service → containerized deployment**.
+Lately, that curiosity has pulled me toward **Generative AI**. I'm deep in a self-set roadmap — **RAG → FastAPI service → containerized deployment** — leveling up my Python so I can go from "full-stack generalist" to someone who actually builds the LLM-powered, AI-automated systems everyone's talking about, instead of just wiring up someone else's API.
 
-🎯 Open to backend and product/fintech engineering roles.
+🎯 Currently open to full-stack and backend engineering roles.
 
 <br>
 
@@ -99,25 +95,131 @@ Right now, I'm going deeper — leveling up **Python & FastAPI** to move from fu
 
 ---
 
-## 🚀 Projects
+## 🚀 Things I've Shipped
 
-### 🗓️ [Schedulio](https://schedulio.ai) — AI Appointment Scheduling SaaS
-A 24/7 AI receptionist for service businesses (clinics, real estate, and beyond) that handles bookings over **chat, voice, and WhatsApp** — at roughly 10x lower cost than hiring a human receptionist. Built the multi-tenant auth system on **PostgreSQL + Drizzle ORM** so each client's data stays fully isolated, and integrated **Mollie** for self-serve subscription billing across 3 pricing plans.
-`React/TypeScript` `Node.js/Express` `PostgreSQL + Drizzle ORM`
+<table>
+<tr>
+<td width="290" valign="top">
 
-### 🛒 [CrossCanals](https://crosscanals.com) — B2B E-Commerce Platform
-Responsive React frontend with role-specific dashboards for 3 user roles, consuming 25+ REST APIs. Solved checkout race conditions using MongoDB transactions and server-side validation to eliminate overselling under concurrent requests, and cut load time ~30% through lazy loading and asset optimization.
+<a href="https://schedulio.ai"><img src="https://image.thum.io/get/width/700/crop/500/https://schedulio.ai" width="270" alt="Schedulio screenshot"/></a>
+
+</td>
+<td valign="top">
+
+### 🗓️ Schedulio — AI Appointment Scheduling SaaS
+
+A 24/7 AI receptionist for clinics and real-estate teams that takes bookings over **chat, voice, and WhatsApp** — at roughly **10x lower cost** than hiring a human receptionist. I built the multi-tenant auth layer on PostgreSQL so every client's data stays fully isolated, and wired up Mollie for self-serve subscription billing across 3 pricing plans.
+
+`Node.js` `TypeScript` `PostgreSQL` `OpenAI / OpenRouter` `Mollie`
+<br><sub>Closed-source client platform</sub>
+
+**[🚀 Live Demo →](https://schedulio.ai)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="290" valign="top">
+
+<a href="https://crosscanals.com"><img src="https://image.thum.io/get/width/700/crop/500/https://crosscanals.com" width="270" alt="CrossCanals screenshot"/></a>
+
+</td>
+<td valign="top">
+
+### 🛒 CrossCanals — B2B E-Commerce Platform
+
+A responsive React storefront with role-specific dashboards for 3 user roles, wired into 25+ REST APIs. The fun part was the checkout: I fixed race conditions with MongoDB transactions and server-side validation so concurrent orders stop overselling stock — plus lazy loading and asset tuning that cut load time ~30%.
+
 `React.js` `MongoDB` `REST APIs`
+<br><sub>Closed-source client platform</sub>
+
+**[🚀 Live Demo →](https://crosscanals.com)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="290" valign="top">
+
+<a href="https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64"><img src="https://image.thum.io/get/width/700/crop/500/https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64" width="270" alt="n8n automation article screenshot"/></a>
+
+</td>
+<td valign="top">
 
 ### 🤖 AI Social Media Automation — n8n Pipeline
-An end-to-end automation pipeline (**Google Sheets → GPT-4o + SerpAPI → image generation → Buffer**) that writes and publishes 6 posts/week across 3 platforms with zero manual effort — cutting content creation from 2–3 hours to under a minute.
-📝 **[Read how I fixed the "copy-paste AI" look of generated content →](https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64)**
 
-### 🎨 [text-gradients](https://www.npmjs.com/package/text-gradients) — NPM Package
-A reusable React component package for gradient text effects, with a modular architecture built for easy integration into any frontend app. **1,000+ downloads.**
+An end-to-end pipeline — **Google Sheets → GPT-4o + SerpAPI → image generation → Buffer** — that writes and publishes 6 posts a week across 3 platforms with zero manual effort, cutting content creation from 2–3 hours down to under a minute. Also wrote up how I fixed the "obviously AI-written" look of the generated captions.
 
-### 🎰 [Lucky Draw Software](https://imc-lucky-draw.vercel.app)
-Replaced a manual Excel-based lucky draw process with a scalable web app handling **120K+ entries** in MongoDB, using optimized random sampling to cut winner-selection time from ~1 minute down to ~2 seconds.
+`n8n` `GPT-4o` `SerpAPI` `Buffer`
+
+**[📝 Read the Case Study →](https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="290" valign="top">
+
+<a href="https://www.npmjs.com/package/text-gradients"><img src="https://image.thum.io/get/width/700/crop/500/https://www.npmjs.com/package/text-gradients" width="270" alt="text-gradients npm package screenshot"/></a>
+
+</td>
+<td valign="top">
+
+### 🎨 text-gradients — Open Source NPM Package
+
+A reusable React component for gradient text effects, built with a modular architecture so it drops into any frontend app with minimal setup. Now sitting at **1,000+ downloads**.
+
+`React` `JavaScript` `NPM`
+
+**[📦 View Package →](https://www.npmjs.com/package/text-gradients)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="290" valign="top">
+
+<a href="https://imc-lucky-draw.vercel.app"><img src="https://image.thum.io/get/width/700/crop/500/https://imc-lucky-draw.vercel.app" width="270" alt="Lucky Draw app screenshot"/></a>
+
+</td>
+<td valign="top">
+
+### 🎰 Lucky Draw Software
+
+Replaced a manual Excel-based lucky draw process with a scalable web app handling **120K+ entries** in MongoDB. Optimized random sampling cut winner-selection time from ~1 minute down to ~2 seconds.
+
+`JavaScript` `Node.js` `MongoDB`
+
+**[🚀 Live Demo →](https://imc-lucky-draw.vercel.app)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="290" valign="top">
+
+<img src="https://img.shields.io/badge/Skill%20Trade-Screenshot%20%26%20Link%20Needed-orange?style=for-the-badge" width="270" alt="Skill Trade placeholder"/>
+
+</td>
+<td valign="top">
+
+### 🔁 Skill Trade
+
+*Card reserved — send me the live link, GitHub repo (if public), tech stack, and a one-line description, and I'll wire up a real screenshot and finish this one off.*
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -133,7 +235,7 @@ Replaced a manual Excel-based lucky draw process with a scalable web app handlin
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma72&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
-<p align="center"><sub>⚠️ These cards are generated live by the GitHub API on every page load. If one doesn't render, it usually means the API is rate-limited or briefly down on their end — not a broken profile. It'll come back on its own; no action needed.</sub></p>
+<p align="center"><sub>👀 Cards not loading? GitHub never goes down... so why are my stats invisible? Refresh — they'll be back.</sub></p>
 
 <br>
 
@@ -145,7 +247,7 @@ Replaced a manual Excel-based lucky draw process with a scalable web app handlin
 
 | Metric | Detail |
 |---|---|
-| 🌟 GirlScript Summer of Code | 128 merged PRs · 4225 points |
+| 🌟 GirlScript Summer of Code | 128 merged PRs · 4225 points · ranked 13th among contributors |
 | 📦 NPM Package | [`text-gradients`](https://www.npmjs.com/package/text-gradients) — 1,000+ downloads |
 | 🧩 FreeCodeCamp | 4 merged PRs |
 | 🧮 DSA | 300+ problems solved (LeetCode & GeeksforGeeks) |
