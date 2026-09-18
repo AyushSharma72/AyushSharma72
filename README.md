@@ -101,7 +101,8 @@ Lately, that curiosity has pulled me toward **Generative AI**. I'm deep in a sel
 <tr>
 <td width="290" valign="top">
 
-<a href="https://schedulio.ai"><img src="https://image.thum.io/get/width/700/crop/500/https://schedulio.ai" width="270" alt="Schedulio screenshot"/></a>
+<a href="https://schedulio.ai"><img width="1896" height="906" alt="image" src="https://github.com/user-attachments/assets/02d3299c-bcba-4ab9-9788-f5062cfed75b" />
+</a>
 
 </td>
 <td valign="top">
@@ -123,7 +124,8 @@ A 24/7 AI receptionist for clinics and real-estate teams that takes bookings ove
 <tr>
 <td width="290" valign="top">
 
-<a href="https://crosscanals.com"><img src="https://image.thum.io/get/width/700/crop/500/https://crosscanals.com" width="270" alt="CrossCanals screenshot"/></a>
+<a href="https://crosscanals.com"><img width="1901" height="903" alt="image" src="https://github.com/user-attachments/assets/e0e1a23c-5ad7-4f4d-83e9-ec1bc7ab65e3" />
+</a>
 
 </td>
 <td valign="top">
@@ -145,7 +147,8 @@ A responsive React storefront with role-specific dashboards for 3 user roles, wi
 <tr>
 <td width="290" valign="top">
 
-<a href="https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64"><img src="https://image.thum.io/get/width/700/crop/500/https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64" width="270" alt="n8n automation article screenshot"/></a>
+<a href="https://medium.com/@ayushsharma7104/how-i-fixed-the-copy-paste-look-of-ai-generated-social-media-content-419e41012a64"><img width="1082" height="670" alt="image" src="https://github.com/user-attachments/assets/14ce7ace-7f47-414e-a14d-285c52c5f4f0" />
+</a>
 
 </td>
 <td valign="top">
@@ -166,7 +169,8 @@ An end-to-end pipeline — **Google Sheets → GPT-4o + SerpAPI → image genera
 <tr>
 <td width="290" valign="top">
 
-<a href="https://www.npmjs.com/package/text-gradients"><img src="https://image.thum.io/get/width/700/crop/500/https://www.npmjs.com/package/text-gradients" width="270" alt="text-gradients npm package screenshot"/></a>
+<a href="https://www.npmjs.com/package/text-gradients"><img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/0c9e4af4-22bf-4f7f-b5e7-7299d7a24f12" />
+</a>
 
 </td>
 <td valign="top">
@@ -187,7 +191,8 @@ A reusable React component for gradient text effects, built with a modular archi
 <tr>
 <td width="290" valign="top">
 
-<a href="https://imc-lucky-draw.vercel.app"><img src="https://image.thum.io/get/width/700/crop/500/https://imc-lucky-draw.vercel.app" width="270" alt="Lucky Draw app screenshot"/></a>
+<a href="https://imc-lucky-draw.vercel.app"><img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/467787d4-3857-4411-b215-390fa8049c2e" />
+</a>
 
 </td>
 <td valign="top">
@@ -208,15 +213,17 @@ Replaced a manual Excel-based lucky draw process with a scalable web app handlin
 <tr>
 <td width="290" valign="top">
 
-<img src="https://img.shields.io/badge/Skill%20Trade-Screenshot%20%26%20Link%20Needed-orange?style=for-the-badge" width="270" alt="Skill Trade placeholder"/>
+<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/0d0e25b4-fc17-49d3-80ad-3968e6f917ee" />
+
 
 </td>
 <td valign="top">
 
 ### 🔁 Skill Trade
 
-*Card reserved — send me the live link, GitHub repo (if public), tech stack, and a one-line description, and I'll wire up a real screenshot and finish this one off.*
+Skill Trade is an innovative platform designed to connect two primary user groups: Consumers and Service Providers. The platform facilitates seamless interaction, enabling users to request services and service providers to fulfill them efficiently. It is a service booking platform where users can book various services such as electricians, carpenters, plumbers, and more.
 
+**[🚀 Live Demo →](https://skill-trade-next-15.vercel.app/)**
 </td>
 </tr>
 </table>
