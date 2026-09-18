@@ -22,7 +22,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Shipping+production+backends+%2B+AI+receptionists;Automating+content+with+n8n+%2B+LLMs;Now+going+deeper+into+Python+%2F+GenAI+%2F+RAG" alt="Typing SVG" />
 
 </div>
----
 
 ## 🧭 About Me
 <br>
