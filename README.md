@@ -261,6 +261,9 @@ Skill Trade is an innovative platform designed to connect two primary user group
 
 </div>
 
+<img width="1000" height="523" alt="image" src="https://github.com/user-attachments/assets/2cead8a2-525c-4af6-b8a5-3f2fc11abe1b" />
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushsharma72&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
